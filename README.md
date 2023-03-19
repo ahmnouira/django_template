@@ -4,7 +4,7 @@
 
 Template starter for my Django projects.
 
-List of users:
+##  Users
 
 | Email                   | Password   |  Role     |  
 | ----------------------- | ---------- | --------- |  
