@@ -1,0 +1,11 @@
+__pycache__/
+# db.sqlite3
+.DS_Store
+venv/
+.venv/
+
+# generated migrations folder
+migrations/
+
+# media folder
+# media/
