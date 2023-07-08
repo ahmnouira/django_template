@@ -8,4 +8,4 @@ Template starter for my Django projects.
 
 | Email                   | Password   |  Role     |  
 | ----------------------- | ---------- | --------- |  
-| admin@admin.com         | 123456     | **Admin** |
+| <admin@admin.com>        | 123456     | **Admin** |
