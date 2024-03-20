@@ -9,3 +9,8 @@ migrations/
 
 # media folder
 # media/
+
+
+# ssl
+cert.crt
+cert.key
